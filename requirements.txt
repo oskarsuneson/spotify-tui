@@ -1,0 +1,8 @@
+textual>=0.60
+spotipy>=2.24
+soundcard>=0.4.4
+numpy
+Pillow
+requests
+# Valfritt: äkta bild i terminaler med Sixel/Kitty (Windows Terminal 1.22+, WezTerm, kitty m.fl.)
+# textual-image

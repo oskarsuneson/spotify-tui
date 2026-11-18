@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.cache
+.env
+# Lokala startfiler och inställningar som kan innehålla personliga ID:n
+start.local.*
+config.json
+*.token
+.terminal-spotify-token
